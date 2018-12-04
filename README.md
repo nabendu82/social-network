@@ -29,3 +29,4 @@ Click [here](https://github.com/nabendu82/social-network/archive/master.zip) the
 > npm run dev
 ```
 
+This project is deployed in Heroku [here](https://thawing-badlands-32093.herokuapp.com/).
