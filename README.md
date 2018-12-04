@@ -29,7 +29,3 @@ Click [here](https://github.com/nabendu82/social-network/archive/master.zip) the
 > npm run dev
 ```
 
-
-
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
-
